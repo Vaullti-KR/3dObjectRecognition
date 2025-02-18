@@ -47,3 +47,14 @@ Launch any of the notebooks, for this example I am using extractorbar. They are 
 
 ![image](https://github.com/user-attachments/assets/de48306f-100f-4699-9dad-9025cd69b474)
 
+
+With the main file csv exported correctly (and assuming the file auto uploads to the juyter directory, if not... upload) 
+You will see in the "bar" extractor all columns are kept, except bar. The last two cells contain the export data - update the  directory. Run the cells. 
+Run all of the jupyter notebooks.
+
+back to rh/gh
+
+Logic 7 - The left column of boxes contains the machine learning text files exported from jupyter for each object classification. These are  trained points as they relate to this object. 
+
+Logic 8 - WIP (not that this isn't all wip) but it is the start of logistic regression.
+

@@ -1,2 +1,2 @@
 # 3dObjectRecognition
-Sterographic recognition
+identify a 3d object within a full scene

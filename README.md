@@ -3,11 +3,10 @@ identify a 3d object
 
 this is an algorithm that operates in 3d space. It is nontraditional. I, the author, do not have a background in computer science. My background is architecture and computational design. As such, if you have comments on specifics, I most likely cannot help. 
 
-![image](https://github.com/user-attachments/assets/fcebe9b3-ec2c-4a02-bccc-35934900d552)
 
 There are a few "dependencies" 
 
-The first is rhino. Rhino is a graphing calcuator. Its free. 
+The first is rhino. Rhino is a graphing calcuator disguised as 3d modeling software. Its "free". 
 https://www.rhino3d.com/download/rhino/evaluation/
 
 Second is grasshopper. 
@@ -16,11 +15,10 @@ https://en.wikipedia.org/wiki/Grasshopper_3D
 Third, jupyter.
 https://jupyter.org/
 
-What most (all) people don't realize: 
-rhino/grasshopper runs headless
-the algorithms can be automated
-data can be imported/exported into the algorithm from exterior sources, including jupyter
 
+rhino/grasshopper runs headless
+the algorithms in grasshopper are automated
+data can be imported/exported from 3d <-> 2d space, including jupyter, rhino and grasshopper are the facilitator
 
 
 open screen1.png. 
@@ -56,5 +54,5 @@ back to rh/gh
 
 Logic 7 - The left column of boxes contains the machine learning text files exported from jupyter for each object classification. These are  trained points as they relate to this object. 
 
-Logic 8 - WIP (not that this isn't all wip) but it is the start of logistic regression.
+Logic 8 -  start of logistic regression.
 
